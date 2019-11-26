@@ -1,0 +1,9 @@
+{
+  "name": "03",
+  "version": "1.0.0",
+  "description": "belajar basic express js",
+  "main": "server.js",
+  "repository": "https://github.com/ilyastars/kelas-basic-node.git",
+  "author": "ilyastars",
+  "license": "MIT"
+}
